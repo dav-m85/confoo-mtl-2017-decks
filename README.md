@@ -228,6 +228,8 @@ By [Tamir Dresher](https://confoo.ca/en/speaker/tamir-dresher)
 #### [Varnish In Action](https://confoo.ca/en/yul2017/session/varnish-in-action-1)
 By [Thijs Feryn](https://confoo.ca/en/speaker/thijs-feryn)
 
+Deck [speakerdeck](https://speakerdeck.com/thijsferyn/varnish-in-action-confoo-17)
+
 #### [L'accessibilité, c'est simple : revoyons les bases](https://confoo.ca/en/yul2017/session/l-accessibilite-c-est-simple-revoyons-les-bases)
 By [Damien Senger](https://confoo.ca/en/speaker/damien-senger)
 
@@ -268,6 +270,10 @@ By [Ben Hall](https://confoo.ca/en/speaker/ben-hall)
 #### [I saw the future, and the web servers were written in PHP](https://confoo.ca/en/yul2017/session/i-saw-the-future-and-the-web-servers-were-written-in-php)
 By [David Zuelke](https://confoo.ca/en/speaker/david-zuelke)
 
+Deck [speakerdeck](https://speakerdeck.com/dzuelke)
+
+Twitter [@dzuelke](https://twitter.com/dzuelke)
+
 #### [Accessible JavaScript-powered Web Applications](https://confoo.ca/en/yul2017/session/accessible-javascript-powered-web-applications)
 By [Robert Jolly](https://confoo.ca/en/speaker/robert-jolly)
 
@@ -280,6 +286,8 @@ By [Rodolphe Rimele](https://confoo.ca/en/speaker/rodolphe-rimele-1)
 #### [Domain-Driven Data](https://confoo.ca/en/yul2017/session/domain-driven-data-1)
 By [Bradley Holt](https://confoo.ca/en/speaker/bradley-holt)
 
+Deck [speakerdeck](https://speakerdeck.com/bradleyholt/domain-driven-data-at-confoo-montreal)
+
 #### [Programmer's Guide to the Galaxy of SEO](https://confoo.ca/en/yul2017/session/programmer-s-guide-to-the-galaxy-of-seo)
 By [Marc Perez](https://confoo.ca/en/speaker/marc-perez)
 
@@ -288,6 +296,8 @@ By [Martin Splitt](https://confoo.ca/en/speaker/martin-splitt)
 
 #### [The Soul in The Machine - Developing for Humans](https://confoo.ca/en/yul2017/session/the-soul-in-the-machine-developing-for-humans)
 By [Christian Heilmann](https://confoo.ca/en/speaker/christian-heilmann)
+
+Deck [slideshare](https://www.slideshare.net/cheilmann/the-soul-in-the-machine-developing-for-humans)
 
 #### [More Human Interfaces: Developing Wearable & Alexa Voice UIs](https://confoo.ca/en/yul2017/session/more-human-interfaces-developing-wearable-alexa-voice-uis)
 By [Mark Heckler](https://confoo.ca/en/speaker/mark-heckler)
