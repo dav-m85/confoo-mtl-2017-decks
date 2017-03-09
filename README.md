@@ -198,6 +198,9 @@ Twitter [@afilina](https://twitter.com/afilina)
 ### 9:25-9:50 [The Progressive Web and its New Challenges](https://confoo.ca/fr/yul2017/session/the-progressive-web-and-its-new-challenges)
 By [Christian Heilmann](https://confoo.ca/fr/speaker/christian-heilmann)
 
+Deck [slideshare](https://www.slideshare.net/cheilmann/the-progressive-web-and-its-new-challenges-confoo-montral-2017)
+
+Twitter [@codepo8](https://twitter.com/codepo8)
 
 ### 10:00-10:45
 #### [Building interactivity with websockets](https://confoo.ca/en/yul2017/session/building-interactivity-with-websockets)
