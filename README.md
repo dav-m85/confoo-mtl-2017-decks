@@ -7,7 +7,7 @@ Participate the effort by pull requesting, and following the formating below :)
 ```
 By ...
 Deck [deck type](deck link)
-Twitter [@account](https://github.com/account)
+Twitter [@account](https://twitter.com/account)
 Github [user](https://github.com/user)
 ```
 
@@ -547,3 +547,11 @@ By [Mikael Randy](https://confoo.ca/en/speaker/mikael-randy)
 #### [Faster Java EE Builds with Gradle](https://confoo.ca/en/yul2017/session/faster-java-ee-builds-with-gradle)
 By [Ryan Cuprak](https://confoo.ca/en/speaker/ryan-cuprak)
 
+## Thursday
+### 9:00AM - 9:45AM
+#### [Build a Web API with Hanami](https://confoo.ca/fr/yul2017/session/build-a-web-api-with-hanami)
+
+* By [Christophe Philemotte](http://ibakesoftware.com)
+* Deck [slides](https://speakerdeck.com/toch/build-a-web-api-with-hanami-confoo-montreal-2017) [code](https://github.com/toch/confoomontreal2017-jsonapi)
+* Twitter [@_toch](https://twitter.com/_toch)
+* Github [toch](https://github.com/toch)
