@@ -144,6 +144,10 @@ By [Bradley Holt](https://confoo.ca/en/speaker/bradley-holt)
 #### [Going to Eleven:  Ready for the Swarm](https://confoo.ca/en/yul2017/session/going-to-eleven-ready-for-the-swarm)
 By [Steve Jackson](https://confoo.ca/en/speaker/steve-jackson)
 
+Deck [speakerdeck](https://speakerdeck.com/stevenjackson/going-to-eleven)
+
+Twitter [@stevejxsn](https://twitter.com/stevejxsn)
+
 #### [Tests unitaires: éviter les pièges & nouvelles pratiques](https://confoo.ca/en/yul2017/session/tests-unitaires-eviter-les-pieges-nouvelles-pratiques)
 By [Félix-Antoine Bourbonnais](https://confoo.ca/en/speaker/felix-antoine-bourbonnais)
 
