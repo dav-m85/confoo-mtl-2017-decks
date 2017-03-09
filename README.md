@@ -31,6 +31,10 @@ By [Christopher Harrison](https://confoo.ca/en/speaker/christopher-harrison)
 #### [Tricher grâce à l'UX quand il n'y plus de code optimisable](https://confoo.ca/en/yul2017/session/tricher-grace-a-l-ux-quand-il-n-y-plus-de-code-optimisable)
 By [Stéphanie Walter](https://confoo.ca/en/speaker/stephanie-walter)
 
+Deck [Blog](https://blog.stephaniewalter.fr/tricher-grace-a-lux-ny-plus-de-code-optimisable/)
+
+Twitter [@WalterStephanie](https://twitter.com/WalterStephanie)
+
 #### [The Bootiful Application](https://confoo.ca/en/yul2017/session/the-bootiful-application)
 By [Josh Long](https://confoo.ca/en/speaker/josh-long-1)
 
@@ -144,6 +148,10 @@ By [Robert Richelieu](https://confoo.ca/en/speaker/robert-richelieu-1)
 
 #### [From Mobile First to Offline First](https://confoo.ca/en/yul2017/session/from-mobile-first-to-offline-first)
 By [Bradley Holt](https://confoo.ca/en/speaker/bradley-holt)
+
+Deck [speakerdeck](https://speakerdeck.com/bradleyholt/from-mobile-first-to-offline-first-at-confoo-montreal)
+
+Twitter [@BradleyHolt](https://twitter.com/BradleyHolt)
 
 #### [Going to Eleven:  Ready for the Swarm](https://confoo.ca/en/yul2017/session/going-to-eleven-ready-for-the-swarm)
 By [Steve Jackson](https://confoo.ca/en/speaker/steve-jackson)
