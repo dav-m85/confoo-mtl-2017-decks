@@ -323,6 +323,8 @@ By [Haris Mahmood](https://confoo.ca/en/speaker/haris-mahmood)
 #### [Introduction to Data Visualization ](https://confoo.ca/en/yul2017/session/introduction-to-data-visualization)
 By [Santiago Paiva](https://confoo.ca/en/speaker/santiago-paiva)
 
+Deck [github](https://github.com/spaiva/confoo-2017)
+
 #### [Exploring GraphQL](https://confoo.ca/en/yul2017/session/exploring-graphql)
 By [Marc-Andre Giroux](https://confoo.ca/en/speaker/marc-andre-giroux)
 
