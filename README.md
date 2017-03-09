@@ -65,6 +65,10 @@ By [Christian Joudrey](https://confoo.ca/en/speaker/christian-joudrey)
 #### [Get more than a cache back! Redis](https://confoo.ca/en/yul2017/session/get-more-than-a-cache-back-redis)
 By [Maarten Balliauw](https://confoo.ca/en/speaker/maarten-balliauw)
 
+Deck: [Slides](https://www.slideshare.net/maartenba/get-more-than-a-cache-back-confoo-montreal)
+
+Twitter: [@maartenballiauw](https://twitter.com/maartenballiauw)
+
 #### [Connecting people - Identity in your platform](https://confoo.ca/en/yul2017/session/connecting-people-identity-in-your-platform)
 By [Rowan Merewood](https://confoo.ca/en/speaker/rowan-merewood)
 
@@ -177,7 +181,7 @@ By [Anna Filina](https://confoo.ca/en/speaker/anna-filina)
 #### [The Progressive Web and its New Challenges](https://confoo.ca/en/yul2017/session/the-progressive-web-and-its-new-challenges)
 By [Christian Heilmann](https://confoo.ca/en/speaker/christian-heilmann)
 
-## Thrusday
+## Thursday
 ### 10:00-10:45
 #### [Building interactivity with websockets](https://confoo.ca/en/yul2017/session/building-interactivity-with-websockets)
 By [Wim Godden](https://confoo.ca/en/speaker/wim-godden)
@@ -229,6 +233,10 @@ By [Marco Pivetta](https://confoo.ca/en/speaker/marco-pivetta)
 
 #### [DNS for Developers](https://confoo.ca/en/yul2017/session/dns-for-developers)
 By [Maarten Balliauw](https://confoo.ca/en/speaker/maarten-balliauw)
+
+Deck: [Slides](https://www.slideshare.net/maartenba/dns-for-developers-confoo-montreal)
+
+Twitter: [@maartenballiauw](https://twitter.com/maartenballiauw)
 
 #### [Running .NET applications with Docker](https://confoo.ca/en/yul2017/session/running-net-applications-with-docker)
 By [Ben Hall](https://confoo.ca/en/speaker/ben-hall)
