@@ -142,6 +142,10 @@ By [Roland Guijt](https://confoo.ca/en/speaker/roland-guijt)
 #### [Données ouvertes (opendata) historisées et Python](https://confoo.ca/en/yul2017/session/donnees-ouvertes-opendata-historisees-et-python)
 By [David Larlet](https://confoo.ca/en/speaker/david-larlet)
 
+* Deck: [PDF](https://larlet.fr/static/david/talks/confoo-opendata.pdf) (3.5Mb)
+* Summary: [Des données aux communs](https://larlet.fr/david/blog/2017/donnees-communs/)
+* Twitter: [@davidbgk](https://twitter.com/davidbgk)
+
 ### 15:00-15:45
 #### [How do you know you're writing good code?](https://confoo.ca/en/yul2017/session/how-do-you-know-you-re-writing-good-code)
 By [Robert Richelieu](https://confoo.ca/en/speaker/robert-richelieu-1)
