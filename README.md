@@ -209,6 +209,10 @@ By [Wim Godden](https://confoo.ca/en/speaker/wim-godden)
 #### [Protect your users with Circuit Breakers](https://confoo.ca/en/yul2017/session/protect-your-users-with-circuit-breakers)
 By [Scott Triglia](https://confoo.ca/en/speaker/scott-triglia)
 
+Deck [slideshare](https://www.slideshare.net/ScottTriglia/protect-your-users-with-circuit-breakers-72991406)
+
+Twitter [@scott_triglia](https://twitter.com/scott_triglia)
+
 #### [The Seven Righteous Fights](https://confoo.ca/en/yul2017/session/the-seven-righteous-fights)
 By [Heidi Waterhouse](https://confoo.ca/en/speaker/heidi-waterhouse)
 
