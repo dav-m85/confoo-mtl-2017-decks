@@ -52,7 +52,7 @@ Twitter:
 Speaker: [Majid Fatemian](https://confoo.ca/en/speaker/majid-fatemian-1)
 Deck:
 Github:
-Twitter:
+Twitter: [@majidfn](https://twitter.com/majidfn)
 
 #### [Take your Rails App Abroad with I18n](https://confoo.ca/en/yul2017/session/take-your-rails-app-abroad-with-i18n)
 Speaker: [Anne Johnson](https://confoo.ca/en/speaker/anne-johnson)
@@ -75,9 +75,9 @@ Twitter:
 
 #### [Remove the boilerplate](https://confoo.ca/en/yul2017/session/remove-the-boilerplate)
 Speaker: [Gleb Bahmutov](https://confoo.ca/en/speaker/gleb-bahmutov)
-Deck:
+Deck: [Slides](http://slides.com/bahmutov/remove-the-boilerplate-confoo#/)
 Github:
-Twitter:
+Twitter: [@bahmutov](https://twitter.com/bahmutov)
 
 #### [The Present and Future of WordPress's REST API](https://confoo.ca/en/yul2017/session/the-present-and-future-of-wordpress-s-rest-api)
 Speaker: [David Hayes](https://confoo.ca/en/speaker/david-hayes)
@@ -173,9 +173,9 @@ Twitter:
 ### 14:00-14:45
 #### [Life of a pixel: Understanding rendering performance](https://confoo.ca/en/yul2017/session/life-of-a-pixel-understanding-rendering-performance)
 Speaker: [Martin Splitt](https://confoo.ca/en/speaker/martin-splitt)
-Deck:
+Deck: [Google Doc](https://docs.google.com/presentation/d/1eJ2oOORZPNRjEI0ITqiLPVKZf4hT8XDTwuibyMAE1w8/edit#slide=id.g1edaf7dcbc_0_1)
 Github:
-Twitter:
+Twitter: [@g33konaut](https://twitter.com/g33konaut)
 
 #### [Moving From a Monolithic to a Microservices Architecture](https://confoo.ca/en/yul2017/session/moving-from-a-monolithic-to-a-microservices-architecture)
 Speaker: [Artur Caliendo Prado](https://confoo.ca/en/speaker/artur-caliendo-prado)
@@ -260,7 +260,7 @@ Twitter:
 Speaker: [Sonia Di Maulo](https://confoo.ca/en/speaker/sonia-di-maulo-1)
 Deck:
 Github:
-Twitter:
+Twitter: [@soniadima](https://twitter.com/soniadima)
 
 #### [Queries Inside Out: The Algorithms in your Database](https://confoo.ca/en/yul2017/session/queries-inside-out-the-algorithms-in-your-database)
 Speaker: [Brad Urani](https://confoo.ca/en/speaker/brad-urani)
