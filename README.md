@@ -455,6 +455,10 @@ By [Yann  Larrivee](https://confoo.ca/en/speaker/yann-larrivee)
 #### [Death By Specification](https://confoo.ca/en/yul2017/session/death-by-specification)
 By [Steve Jackson](https://confoo.ca/en/speaker/steve-jackson)
 
+Deck [speakerdeck](https://speakerdeck.com/stevenjackson/better-software-through-shared-understanding)
+
+Twitter [@stevejxsn](https://twitter.com/stevejxsn)
+
 #### [Preparing your data for Machine Learning](https://confoo.ca/en/yul2017/session/preparing-your-data-for-machine-learning)
 By [Susan Ibach](https://confoo.ca/en/speaker/susan-ibach)
 
@@ -496,6 +500,10 @@ Deck : [Slides](https://www.slideshare.net/mobile/RababGomaa/accessibility-of-we
 
 #### [Intermediate Laravel Tips and Tricks](https://confoo.ca/en/yul2017/session/intermediate-laravel-tips-and-tricks)
 By [Mathieu Dumoulin](https://confoo.ca/en/speaker/mathieu-dumoulin)
+
+Deck [slides](http://slides.com/thecrazycodr/deck-5-6/fullscreen#/)
+
+Twitter [@thecrazycodr](https://twitter.com/thecrazycodr)
 
 #### [Construire une application Ionic sans perdre la raison](https://confoo.ca/en/yul2017/session/construire-une-application-ionic-sans-perdre-la-raison)
 By [Stéphanie Walter](https://confoo.ca/en/speaker/stephanie-walter)
