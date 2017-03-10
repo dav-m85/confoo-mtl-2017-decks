@@ -555,10 +555,20 @@ By [Mikael Randy](https://confoo.ca/en/speaker/mikael-randy)
 By [Ryan Cuprak](https://confoo.ca/en/speaker/ryan-cuprak)
 
 ## Thursday
-### 9:00AM - 9:45AM
+### 10:00AM - 10:45AM
 #### [Build a Web API with Hanami](https://confoo.ca/fr/yul2017/session/build-a-web-api-with-hanami)
 
 * By [Christophe Philemotte](http://ibakesoftware.com)
 * Deck [slides](https://speakerdeck.com/toch/build-a-web-api-with-hanami-confoo-montreal-2017) [code](https://github.com/toch/confoomontreal2017-jsonapi)
 * Twitter [@_toch](https://twitter.com/_toch)
 * Github [toch](https://github.com/toch)
+
+## Friday
+### 9:00AM - 09:45AM
+#### [Enterprise Learning Can Be Fun](https://confoo.ca/en/yul2017/session/enterprise-learning-can-be-fun)
+
+* By [Christophe Philemotte](http://ibakesoftware.com)
+* Deck [slides](https://speakerdeck.com/toch/enterprise-learning-can-be-fun-confoo-montreal-2017)
+* Twitter [@_toch](https://twitter.com/_toch)
+* Github [toch](https://github.com/toch)
+
