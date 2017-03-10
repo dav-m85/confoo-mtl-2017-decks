@@ -76,6 +76,10 @@ Twitter: [@maartenballiauw](https://twitter.com/maartenballiauw)
 #### [Connecting people - Identity in your platform](https://confoo.ca/en/yul2017/session/connecting-people-identity-in-your-platform)
 By [Rowan Merewood](https://confoo.ca/en/speaker/rowan-merewood)
 
+Deck : [Slides](https://goo.gl/dstgV4)
+
+Twitter: [@rowan_m](https://twitter.com/rowan_m)
+
 #### [PM-Led Accessibility: Level up yourself and your team!](https://confoo.ca/en/yul2017/session/pm-led-accessibility-level-up-yourself-and-your-team)
 By [Robert Jolly](https://confoo.ca/en/speaker/robert-jolly)
 
@@ -196,6 +200,8 @@ By [Christian Heilmann](https://confoo.ca/en/speaker/christian-heilmann)
 ## Thursday
 ### 9:00-9:25 [Surviving Your Next Data Breach](https://confoo.ca/fr/yul2017/session/surviving-your-next-data-breach)
 By [Anna Filina](https://confoo.ca/fr/speaker/anna-filina)
+
+Deck [Slides](https://speakerdeck.com/afilina/surviving-your-next-data-breach)
 
 Twitter [@afilina](https://twitter.com/afilina)
 
@@ -321,8 +327,9 @@ By [Greg Ward](https://confoo.ca/en/speaker/greg-ward)
 #### [Getting browsers to improve the security of your webapp](https://confoo.ca/en/yul2017/session/getting-browsers-to-help-improve-the-security-of-your-webapp)
 By [François Marier](https://confoo.ca/en/speaker/francois-marier)
 
-* Deck [speakerdeck](https://speakerdeck.com/fmarier/getting-browsers-to-improve-the-security-of-your-webapp)
-* Twitter [@fmarier](https://twitter.com/fmarier)
+Deck [speakerdeck](https://speakerdeck.com/fmarier/getting-browsers-to-improve-the-security-of-your-webapp)
+
+Twitter [@fmarier](https://twitter.com/fmarier)
 
 #### [The Evolution and Future of Content Publishing](https://confoo.ca/en/yul2017/session/the-evolution-and-future-of-content-publishing)
 By [Haris Mahmood](https://confoo.ca/en/speaker/haris-mahmood)
@@ -422,6 +429,10 @@ By [Christian Heimes](https://confoo.ca/en/speaker/christian-heimes)
 #### [HTML5 APIs You've Never Heard Of](https://confoo.ca/en/yul2017/session/html5-apis-you-ve-never-heard-of-1)
 By [Drew McLellan](https://confoo.ca/en/speaker/drew-mclellan)
 
+Deck [Slides](speakerdeck.com/drewm/html5-aprs-confoo-montreal)
+
+Twitter [@drewm](https://twitter.com/drewm)
+
 #### [MySQL Replication Evolution](https://confoo.ca/en/yul2017/session/mysql-replication-evolution)
 By [Dave Stokes](https://confoo.ca/en/speaker/dave-stokes)
 
@@ -466,6 +477,8 @@ By [Heidi Waterhouse](https://confoo.ca/en/speaker/heidi-waterhouse)
 
 #### [Accessible & Usable Web Forms. Your How To Guide!](https://confoo.ca/en/yul2017/session/accessible-usable-web-forms-your-how-to-guide)
 By [Rabab Gomaa](https://confoo.ca/en/speaker/rabab-gomaa)
+
+Deck : [Slides](https://www.slideshare.net/mobile/RababGomaa/accessibility-of-web-forms-58680124)
 
 #### [Intermediate Laravel Tips and Tricks](https://confoo.ca/en/yul2017/session/intermediate-laravel-tips-and-tricks)
 By [Mathieu Dumoulin](https://confoo.ca/en/speaker/mathieu-dumoulin)
