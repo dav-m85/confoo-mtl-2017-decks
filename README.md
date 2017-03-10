@@ -232,6 +232,11 @@ By [Barbara Fusinska](https://confoo.ca/en/speaker/barbara-fusinska)
 #### [Build a Web API with Hanami](https://confoo.ca/en/yul2017/session/build-a-web-api-with-hanami)
 By [Christophe Philemotte](https://confoo.ca/en/speaker/christophe-philemotte)
 
+* By [Christophe Philemotte](http://ibakesoftware.com)
+* Deck [slides](https://speakerdeck.com/toch/build-a-web-api-with-hanami-confoo-montreal-2017) [code](https://github.com/toch/confoomontreal2017-jsonapi)
+* Twitter [@_toch](https://twitter.com/_toch)
+* Github [toch](https://github.com/toch)
+
 #### [.NET Debugging tricks you wish you knew](https://confoo.ca/en/yul2017/session/net-debugging-tricks-you-wish-you-knew)
 By [Tamir Dresher](https://confoo.ca/en/speaker/tamir-dresher)
 
@@ -399,6 +404,8 @@ By [Adam Juda](https://confoo.ca/en/speaker/adam-juda)
 #### [Introduction to Performance Optimization of .NET Web Apps](https://confoo.ca/en/yul2017/session/introduction-to-performance-optimization-of-net-web-apps)
 By [Pierre-Luc Maheu](https://confoo.ca/en/speaker/pierre-luc-maheu)
 
+## Friday
+### 9:00-9:45
 #### [Extremely defensive PHP programming](https://confoo.ca/en/yul2017/session/extremely-defensive-php-programming)
 By [Marco Pivetta](https://confoo.ca/en/speaker/marco-pivetta)
 
@@ -417,6 +424,11 @@ By [Sasha Goldshtein](https://confoo.ca/en/speaker/sasha-goldshtein)
 #### [Enterprise learning can be fun](https://confoo.ca/en/yul2017/session/enterprise-learning-can-be-fun)
 By [Christophe Philemotte](https://confoo.ca/en/speaker/christophe-philemotte)
 
+* By [Christophe Philemotte](http://ibakesoftware.com)
+* Deck [slides](https://speakerdeck.com/toch/enterprise-learning-can-be-fun-confoo-montreal-2017)
+* Twitter [@_toch](https://twitter.com/_toch)
+* Github [toch](https://github.com/toch)
+
 #### [Machine learning for Music performance](https://confoo.ca/en/yul2017/session/machine-learning-for-music-performance)
 By [Fred Cecilia](https://confoo.ca/en/speaker/fred-cecilia)
 
@@ -426,6 +438,7 @@ By [Tamir Dresher](https://confoo.ca/en/speaker/tamir-dresher)
 #### [Tales from Python core security](https://confoo.ca/en/yul2017/session/tales-from-python-core-security)
 By [Christian Heimes](https://confoo.ca/en/speaker/christian-heimes)
 
+### 10:00-10:45
 #### [HTML5 APIs You've Never Heard Of](https://confoo.ca/en/yul2017/session/html5-apis-you-ve-never-heard-of-1)
 By [Drew McLellan](https://confoo.ca/en/speaker/drew-mclellan)
 
@@ -457,6 +470,7 @@ By [Roland Guijt](https://confoo.ca/en/speaker/roland-guijt)
 #### [Putting Hypermedia Back in REST with JAX-RS](https://confoo.ca/en/yul2017/session/putting-hypermedia-back-in-rest-with-jax-rs)
 By [Sebastian Daschner](https://confoo.ca/en/speaker/sebastian-daschner)
 
+### 11:00-11:45
 #### [ElasticSearch In Action](https://confoo.ca/en/yul2017/session/elasticsearch-in-action)
 By [Thijs Feryn](https://confoo.ca/en/speaker/thijs-feryn)
 
@@ -486,6 +500,7 @@ By [Mathieu Dumoulin](https://confoo.ca/en/speaker/mathieu-dumoulin)
 #### [Construire une application Ionic sans perdre la raison](https://confoo.ca/en/yul2017/session/construire-une-application-ionic-sans-perdre-la-raison)
 By [Stéphanie Walter](https://confoo.ca/en/speaker/stephanie-walter)
 
+### 13:00-13:45
 #### [HTTP/2.0 101 Introduction](https://confoo.ca/en/yul2017/session/http-2-0-101-introduction)
 By [Bastian Hofmann](https://confoo.ca/en/speaker/bastian-hofmann)
 
@@ -513,6 +528,7 @@ By [Scott Triglia](https://confoo.ca/en/speaker/scott-triglia)
 #### [A Survey of Terrible SAAS Pricing Pages](https://confoo.ca/en/yul2017/session/a-survey-of-terrible-saas-pricing-pages)
 By [Adam Juda](https://confoo.ca/en/speaker/adam-juda)
 
+### 14:00-14:45
 #### [Forget your tasks with confidence, with Getting Things Done](https://confoo.ca/en/yul2017/session/forget-your-tasks-with-confidence-with-getting-things-done)
 By [David Zuelke](https://confoo.ca/en/speaker/david-zuelke)
 
@@ -540,6 +556,7 @@ By [Kirsten Hunter](https://confoo.ca/en/speaker/kirsten-hunter)
 #### [Techniques for Cross Platform .Net Development](https://confoo.ca/en/yul2017/session/techniques-for-cross-platform-net-development)
 By [Jeremy Hutchinson](https://confoo.ca/en/speaker/jeremy-hutchinson)
 
+### 15:00-15:45
 #### [Développeurs web, je vous présente... le monde réel!](https://confoo.ca/en/yul2017/session/developpeurs-web-je-vous-presente-le-monde-reel)
 By [Jean-Philippe Côté](https://confoo.ca/en/speaker/jean-philippe-cote)
 
@@ -566,22 +583,3 @@ By [Mikael Randy](https://confoo.ca/en/speaker/mikael-randy)
 
 #### [Faster Java EE Builds with Gradle](https://confoo.ca/en/yul2017/session/faster-java-ee-builds-with-gradle)
 By [Ryan Cuprak](https://confoo.ca/en/speaker/ryan-cuprak)
-
-## Thursday
-### 10:00AM - 10:45AM
-#### [Build a Web API with Hanami](https://confoo.ca/fr/yul2017/session/build-a-web-api-with-hanami)
-
-* By [Christophe Philemotte](http://ibakesoftware.com)
-* Deck [slides](https://speakerdeck.com/toch/build-a-web-api-with-hanami-confoo-montreal-2017) [code](https://github.com/toch/confoomontreal2017-jsonapi)
-* Twitter [@_toch](https://twitter.com/_toch)
-* Github [toch](https://github.com/toch)
-
-## Friday
-### 9:00AM - 09:45AM
-#### [Enterprise Learning Can Be Fun](https://confoo.ca/en/yul2017/session/enterprise-learning-can-be-fun)
-
-* By [Christophe Philemotte](http://ibakesoftware.com)
-* Deck [slides](https://speakerdeck.com/toch/enterprise-learning-can-be-fun-confoo-montreal-2017)
-* Twitter [@_toch](https://twitter.com/_toch)
-* Github [toch](https://github.com/toch)
-
