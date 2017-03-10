@@ -321,6 +321,9 @@ By [Greg Ward](https://confoo.ca/en/speaker/greg-ward)
 #### [Getting browsers to improve the security of your webapp](https://confoo.ca/en/yul2017/session/getting-browsers-to-help-improve-the-security-of-your-webapp)
 By [François Marier](https://confoo.ca/en/speaker/francois-marier)
 
+* Deck [speakerdeck](https://speakerdeck.com/fmarier/getting-browsers-to-improve-the-security-of-your-webapp)
+* Twitter [@fmarier](https://twitter.com/fmarier)
+
 #### [The Evolution and Future of Content Publishing](https://confoo.ca/en/yul2017/session/the-evolution-and-future-of-content-publishing)
 By [Haris Mahmood](https://confoo.ca/en/speaker/haris-mahmood)
 
