@@ -306,6 +306,8 @@ Deck [speakerdeck](https://speakerdeck.com/bradleyholt/domain-driven-data-at-con
 #### [Programmer's Guide to the Galaxy of SEO](https://confoo.ca/en/yul2017/session/programmer-s-guide-to-the-galaxy-of-seo)
 By [Marc Perez](https://confoo.ca/en/speaker/marc-perez)
 
+* Twitter: [@mrPerezMarc](https://twitter.com/mrPerezMarc)
+
 #### [Demystifying WebGL](https://confoo.ca/en/yul2017/session/demystifying-webgl)
 By [Martin Splitt](https://confoo.ca/en/speaker/martin-splitt)
 
@@ -567,6 +569,9 @@ By [Jeremy Hutchinson](https://confoo.ca/en/speaker/jeremy-hutchinson)
 ### 15:00-15:45
 #### [Développeurs web, je vous présente... le monde réel!](https://confoo.ca/en/yul2017/session/developpeurs-web-je-vous-presente-le-monde-reel)
 By [Jean-Philippe Côté](https://confoo.ca/en/speaker/jean-philippe-cote)
+
+* Deck: [Slides](http://tangiblejs.com/slides/confoo2017/developpeurs-web-je-vous-presente-le-monde-reel/presentation.pdf)
+* Twitter: [@jpcote](https://twitter.com/jpcote)
 
 #### [3D on the Web](https://confoo.ca/en/yul2017/session/3d-on-the-web)
 By [Denis Grigor](https://confoo.ca/en/speaker/denis-grigor)
