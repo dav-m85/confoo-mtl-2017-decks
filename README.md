@@ -26,6 +26,12 @@ By [Breandan Considine](https://confoo.ca/en/speaker/breandan-considine)
 #### [Building Behat Tests Like a Pro](https://confoo.ca/en/yul2017/session/behat-for-the-single-page-app-developer)
 By [Mathieu Dumoulin](https://confoo.ca/en/speaker/mathieu-dumoulin)
 
+Deck [Slides.com](http://slides.com/thecrazycodr/deck-5#/)
+
+Twitter [@thecrazycodr](https://twitter.com/thecrazycodr)
+
+Github [@crazycodr](https://github.com/crazycodr)
+
 #### [What's new in PostgreSQL 9.6](https://confoo.ca/en/yul2017/session/what-s-new-in-postgresql-9-6)
 By [Magnus Hagander](https://confoo.ca/en/speaker/magnus-hagander)
 
@@ -52,6 +58,12 @@ By [Anne Johnson](https://confoo.ca/en/speaker/anne-johnson)
 ### 11:00-11:45
 #### [Microservices Minus the Hype: How to Build and Why](https://confoo.ca/en/yul2017/session/microservices-minus-the-hype-how-to-build-and-why-1)
 By [Mark Heckler](https://confoo.ca/en/speaker/mark-heckler)
+
+Deck [Slideshare](https://fr.slideshare.net/HecklerMark/microservices-minus-the-hype)
+
+Twitter [@MkHeck](https://twitter.com/MkHeck)
+
+Github [@MkHeck](https://github.com/mkheck)
 
 #### [CSS Layout Techniques: Replacing Floats with Flexbox](https://confoo.ca/en/yul2017/session/css-layout-techniques-replacing-floats-with-flexbox)
 By [Bermon Painter](https://confoo.ca/en/speaker/bermon-painter)
@@ -107,6 +119,11 @@ By [Ben Hall](https://confoo.ca/en/speaker/ben-hall)
 
 #### [Irresistible APIs](https://confoo.ca/en/yul2017/session/irresistible-apis)
 By [Kirsten Hunter](https://confoo.ca/en/speaker/kirsten-hunter)
+Deck [HaikuDeck](https://www.haikudeck.com/-irresistible-apis-science-and-technology-presentation-4DwduyXtwS)
+
+Twitter [@synedra](https://twitter.com/synedra)
+
+Github [@synedra](https://github.com/synedra)
 
 #### [Top 5 best ways to improve your code](https://confoo.ca/en/yul2017/session/top-5-best-ways-to-improve-your-code-1)
 By [Eric De Carufel](https://confoo.ca/en/speaker/eric-de-carufel)
@@ -152,6 +169,9 @@ By [David Larlet](https://confoo.ca/en/speaker/david-larlet)
 ### 15:00-15:45
 #### [How do you know you're writing good code?](https://confoo.ca/en/yul2017/session/how-do-you-know-you-re-writing-good-code)
 By [Robert Richelieu](https://confoo.ca/en/speaker/robert-richelieu-1)
+Deck [Drive](https://drive.google.com/file/d/0B7UgllCinQwzd1JMb29VUHlnZlk/view)
+
+Twitter [@azoblu3](https://twitter.com/azoblu3)
 
 #### [From Mobile First to Offline First](https://confoo.ca/en/yul2017/session/from-mobile-first-to-offline-first)
 By [Bradley Holt](https://confoo.ca/en/speaker/bradley-holt)
@@ -225,6 +245,10 @@ By [Scott Triglia](https://confoo.ca/en/speaker/scott-triglia)
 #### [The Seven Righteous Fights](https://confoo.ca/en/yul2017/session/the-seven-righteous-fights)
 By [Heidi Waterhouse](https://confoo.ca/en/speaker/heidi-waterhouse)
 
+Deck [Slideshare](https://fr.slideshare.net/Pivotal/the-seven-righteous-fights)
+
+Twitter [@wiredferret](https://twitter.com/wiredferret)
+
 #### [A picture speaks a thousand words– data visualisation with R](https://confoo.ca/en/yul2017/session/a-picture-speaks-a-thousand-words-data-visualisation-with-r)
 By [Barbara Fusinska](https://confoo.ca/en/speaker/barbara-fusinska)
 
@@ -257,6 +281,12 @@ By [Magnus Hagander](https://confoo.ca/en/speaker/magnus-hagander)
 ### 11:00-11:45
 #### [Solving real world problems with design patterns!](https://confoo.ca/en/yul2017/session/solving-real-world-problems-with-design-patterns)
 By [Hugo Hamon](https://confoo.ca/en/speaker/hugo-hamon)
+
+Deck [Speakerdeck](https://speakerdeck.com/hhamon/solving-real-world-problems-with-design-patterns)
+
+Twitter [@hhamon](https://twitter.com/hhamon)
+
+Github [@hhamon](https://github.com/hhamon)
 
 #### [Getting and staying fast - A web performance round-up](https://confoo.ca/en/yul2017/session/getting-and-staying-fast-a-web-performance-round-up)
 By [Bastian Hofmann](https://confoo.ca/en/speaker/bastian-hofmann)
@@ -294,8 +324,10 @@ By [Ben Hall](https://confoo.ca/en/speaker/ben-hall)
 #### [I saw the future, and the web servers were written in PHP](https://confoo.ca/en/yul2017/session/i-saw-the-future-and-the-web-servers-were-written-in-php)
 By [David Zuelke](https://confoo.ca/en/speaker/david-zuelke)
 
-* Deck: [speakerdeck](https://speakerdeck.com/dzuelke)
+* Deck: [speakerdeck](https://speakerdeck.com/dzuelke/your-next-web-server-will-be-written-in-dot-dot-dot-php-1)
 * Twitter: [@dzuelke](https://twitter.com/dzuelke)
+
+Github [@dzuelke](https://github.com/dzuelke)
 
 #### [Accessible JavaScript-powered Web Applications](https://confoo.ca/en/yul2017/session/accessible-javascript-powered-web-applications)
 By [Robert Jolly](https://confoo.ca/en/speaker/robert-jolly)
@@ -339,6 +371,12 @@ By [Jacques Berger](https://confoo.ca/en/speaker/jacques-berger)
 
 #### [Symfony Components And Your Legacy Code](https://confoo.ca/en/yul2017/session/symfony-components-and-your-legacy-code)
 By [Andreas Hucks](https://confoo.ca/en/speaker/andreas-hucks)
+
+Deck [speakerdeck](https://speakerdeck.com/meandmymonkey)
+
+Twitter [@meandmymonkey](https://twitter.com/meandmymonkey)
+
+Github [@meandmymonkey](https://github.com/meandmymonkey)
 
 #### [Blocked on I/O: The Pitfalls of Event-Driven Programming](https://confoo.ca/en/yul2017/session/blocked-on-i-o-the-pitfalls-of-event-driven-programming)
 By [Greg Ward](https://confoo.ca/en/speaker/greg-ward)
@@ -385,6 +423,12 @@ By [Jeremy Hutchinson](https://confoo.ca/en/speaker/jeremy-hutchinson)
 #### [Self-improving software](https://confoo.ca/en/yul2017/session/self-improving-software)
 By [Gleb Bahmutov](https://confoo.ca/en/speaker/gleb-bahmutov)
 
+Deck [Slides](http://slides.com/bahmutov/self-improving-software-confoo#/)
+
+Twitter [@bahmutov](https://twitter.com/bahmutov)
+
+Github [@bahmutov](https://github.com/bahmutov)
+
 #### [An Introduction To Go](https://confoo.ca/en/yul2017/session/an-introduction-to-go)
 By [Dave MacFarlane](https://confoo.ca/en/speaker/dave-macfarlane)
 
@@ -416,6 +460,10 @@ By [Anthony Dahanne](https://confoo.ca/en/speaker/anthony-dahanne)
 #### [Making the Case for Refactoring to Non-Technical Managers](https://confoo.ca/en/yul2017/session/making-the-case-for-refactoring-to-non-technical-managers)
 By [Adam Juda](https://confoo.ca/en/speaker/adam-juda)
 
+Deck [Slides](https://taprun.com/talks/2017_03_09_confoo_refactor.pdf)
+
+Twitter [@TheAdamJuda](https://twitter.com/TheAdamJuda)
+
 #### [Introduction to Performance Optimization of .NET Web Apps](https://confoo.ca/en/yul2017/session/introduction-to-performance-optimization-of-net-web-apps)
 By [Pierre-Luc Maheu](https://confoo.ca/en/speaker/pierre-luc-maheu)
 
@@ -423,6 +471,12 @@ By [Pierre-Luc Maheu](https://confoo.ca/en/speaker/pierre-luc-maheu)
 ### 9:00-9:45
 #### [Extremely defensive PHP programming](https://confoo.ca/en/yul2017/session/extremely-defensive-php-programming)
 By [Marco Pivetta](https://confoo.ca/en/speaker/marco-pivetta)
+
+Deck [Slides](https://ocramius.github.io/extremely-defensive-php/)
+
+Twitter [@Ocramius](https://twitter.com/ocramius)
+
+Github [@Ocramius](https://github.com/ocramius)
 
 #### [Intro to highly available web apps](https://confoo.ca/en/yul2017/session/intro-to-highly-available-web-apps-on-amazon-web-services)
 By [Sean Coates](https://confoo.ca/en/speaker/sean-coates)
@@ -469,7 +523,7 @@ By [Dave Stokes](https://confoo.ca/en/speaker/dave-stokes)
 #### [The hidden secrets of project rescue](https://confoo.ca/en/yul2017/session/the-hidden-secrets-of-project-rescue)
 By [Yann  Larrivee](https://confoo.ca/en/speaker/yann-larrivee)
 
-#### [Death By Specification](https://confoo.ca/en/yul2017/session/death-by-specification)
+#### [Better software through Shared Understanding](https://confoo.ca/en/yul2017/session/death-by-specification)
 By [Steve Jackson](https://confoo.ca/en/speaker/steve-jackson)
 
 * Deck: [speakerdeck](https://speakerdeck.com/stevenjackson/better-software-through-shared-understanding)
@@ -512,6 +566,10 @@ By [Andrew Burke](https://confoo.ca/en/speaker/andrew-burke)
 #### [Search-First Writing for Developers](https://confoo.ca/en/yul2017/session/search-first-writing-for-developers)
 By [Heidi Waterhouse](https://confoo.ca/en/speaker/heidi-waterhouse)
 
+Video [Youtube](https://www.youtube.com/watch?v=PmAqZ0Hx2TE)
+
+Twitter [@wiredferret](https://twitter.com/wiredferret)
+
 #### [Accessible & Usable Web Forms. Your How To Guide!](https://confoo.ca/en/yul2017/session/accessible-usable-web-forms-your-how-to-guide)
 By [Rabab Gomaa](https://confoo.ca/en/speaker/rabab-gomaa)
 
@@ -549,6 +607,10 @@ By [Dave Stokes](https://confoo.ca/en/speaker/dave-stokes)
 
 #### [A Remote Chance of Success](https://confoo.ca/en/yul2017/session/a-remote-chance-of-success)
 By [VM (Vicky) Brasseur](https://confoo.ca/en/speaker/vm-vicky-brasseur)
+
+Video [Screencast](https://archive.org/details/confoo2017-remote)
+
+Twitter [@vmbrasseur](https://twitter.com/vmbrasseur)
 
 #### [Crystal clear service interfaces with Swagger/OpenAPI](https://confoo.ca/en/yul2017/session/crystal-clear-service-interfaces-with-swagger-openapi)
 By [Scott Triglia](https://confoo.ca/en/speaker/scott-triglia)
