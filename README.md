@@ -218,14 +218,14 @@ By [Anna Filina](https://confoo.ca/en/speaker/anna-filina)
 By [Christian Heilmann](https://confoo.ca/en/speaker/christian-heilmann)
 
 ## Thursday
-### 9:00-9:25 
+### 9:00-9:25
 #### [Surviving Your Next Data Breach](https://confoo.ca/fr/yul2017/session/surviving-your-next-data-breach)
 By [Anna Filina](https://confoo.ca/fr/speaker/anna-filina)
 
 * Deck: [SpeakerDeck](https://speakerdeck.com/afilina/surviving-your-next-data-breach)
 * Twitter: [@afilina](https://twitter.com/afilina)
 
-### 9:25-9:50 
+### 9:25-9:50
 #### [The Progressive Web and its New Challenges](https://confoo.ca/fr/yul2017/session/the-progressive-web-and-its-new-challenges)
 By [Christian Heilmann](https://confoo.ca/fr/speaker/christian-heilmann)
 
@@ -514,7 +514,7 @@ By [Christian Heimes](https://confoo.ca/en/speaker/christian-heimes)
 #### [HTML5 APIs You've Never Heard Of](https://confoo.ca/en/yul2017/session/html5-apis-you-ve-never-heard-of-1)
 By [Drew McLellan](https://confoo.ca/en/speaker/drew-mclellan)
 
-* Deck: [SpeakerDeck](speakerdeck.com/drewm/html5-aprs-confoo-montreal)
+* Deck: [SpeakerDeck](https://speakerdeck.com/drewm/html5-apis-confoo-montreal)
 * Twitter: [@drewm](https://twitter.com/drewm)
 
 #### [MySQL Replication Evolution](https://confoo.ca/en/yul2017/session/mysql-replication-evolution)
